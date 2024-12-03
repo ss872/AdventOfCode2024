@@ -4,7 +4,7 @@ import util.FileUtil
 import kotlin.math.abs
 
 class DayOne {
-    private val fileName: String = "firstDay.txt"
+    private val fileName: String = "FirstDay.txt"
 
     fun solveFirst() : Long {
         var ans = 0L
